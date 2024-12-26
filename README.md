@@ -2,6 +2,8 @@
 
 ## OpenTTD Video Player (Bad Apple Project)
 
+YouTube: https://www.youtube.com/watch?v=DiwbNG5mJXI  
+
 ## 0. Copyright & Credits
 
 ### a. Team Members:
