@@ -1,5 +1,5 @@
    OpenTTD Video Player is a mod that plays Bad Apple in-game using apple trees.
-    Copyright (C) 2024  Chun Ho Chan
+    Copyright (C) 2022  Chun Ho Chan
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU Affero General Public License as published
